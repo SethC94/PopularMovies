@@ -15,9 +15,11 @@
 
     <string name="watch_trailer">Watch trailer</string>
     <string name="favorites">Favorites</string>
+
     <string name="remove_from_favorites">Remove from favorites</string>
     <string name="title_for_empty_view_favorites">No movies</string>
     <string name="text_for_empty_view_favorites">You can add here your favorite movies</string>
+
     <string name="sort_by">Sort by</string>
     <string name="share_trailer">Share trailer</string>
 </resources>
